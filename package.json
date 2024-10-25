@@ -1,5 +1,5 @@
 {
-	"name": "sveltekit-template",
+	"name": "lottie-animation-sandbox",
 	"version": "0.0.1",
 	"private": true,
 	"type": "module",
@@ -22,6 +22,7 @@
 		"@types/node": "22.1.0",
 		"@vitejs/plugin-legacy": "^5.4.1",
 		"autoprefixer": "10.4.20",
+		"lottie-web": "^5.12.2",
 		"postcss": "8.4.41",
 		"prettier": "^3.3.3",
 		"prettier-plugin-svelte": "^3.2.6",

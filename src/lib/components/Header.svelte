@@ -20,7 +20,7 @@
 		{/if}
 
 		<a href="/" class="link link--zoomies">
-			<strong class="text-xl uppercase">SvelteKit Template</strong>
+			<strong class="text-xl uppercase">Lottie Animation Sandbox</strong>
 		</a>
 	</svelte:fragment>
 
