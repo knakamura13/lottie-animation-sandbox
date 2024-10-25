@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+.idea/
+.output
+.vercel
+/.svelte-kit
+/build
+node_modules
+vite.config.*
